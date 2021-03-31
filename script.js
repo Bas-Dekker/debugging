@@ -31,7 +31,8 @@ console.log(item.name, "is een", item.profession);
 
 
 /*  Check of iemand ouder is dan 50 jaar 
-    for (let item of array) {
-        if (item.age) =< 50
+ for (let item of array) { 
+        if (item.age > 50){
         console.log(item.name, "is 50 jaar of ouder");
+}
 }
